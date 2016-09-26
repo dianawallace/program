@@ -58,10 +58,10 @@ kitty.speak
 puppy = Dog.new("black", "Staffordshire Terrier")
 
 puts "Let's inspect our new dog:"
-puppy.inspect
+puts puppy.inspect
 puts "What breed does our new dog belong to?"
-puppy.breed
+puts puppy.breed
 puts "What color is our dog?"
-puppy.color
+puts puppy.color
 puts "Our dog can make noise"
 puppy.speak
